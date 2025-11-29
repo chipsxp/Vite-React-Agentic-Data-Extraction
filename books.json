@@ -1,48 +1,188 @@
 {
   "books": [
     {
-      "id": "bk-001",
-      "title": "The Silent Archive",
-      "authors": ["Riley Chen"],
-      "publishedYear": 2019,
-      "genres": ["Mystery", "Historical"],
-      "isbn": "978-1-55555-010-2",
-      "pages": 384,
+      "id": "dml-01-pdf",
+      "title": "What is Machine Learning? (PDF)",
+      "authors": ["ADE Research Group"],
+      "publishedYear": 2024,
+      "genres": ["Technical", "Introductory"],
+      "isbn": "978-1-00000-000-1",
+      "pages": 38,
       "language": "en",
       "publisher": {
-        "name": "Northwind Press",
+        "name": "ADE Publications",
         "location": "Seattle, USA"
       },
       "availability": {
-        "format": "hardcover",
-        "stock": 18
-      },
-      "rating": {
-        "average": 4.3,
-        "count": 214
-      }
-    },
-    {
-      "id": "bk-002",
-      "title": "Algorithms of the Sea",
-      "authors": ["Marina Iqbal", "Jonas Richter"],
-      "publishedYear": 2023,
-      "genres": ["Science Fiction"],
-      "isbn": "978-1-55555-011-9",
-      "pages": 296,
-      "language": "en",
-      "publisher": {
-        "name": "Azure Reef Publishing",
-        "location": "Sydney, Australia"
-      },
-      "availability": {
-        "format": "ebook",
+        "format": "pdf",
         "stock": 999
       },
       "rating": {
-        "average": 4.8,
-        "count": 87
-      }
+        "average": 4.6,
+        "count": 112
+      },
+      "pdfUrl": "/Deep%20Machine%20Learning/01%20What%20is%20Machine%20Learning.pdf"
+    },
+    {
+      "id": "dml-01-ppt",
+      "title": "What is Machine Learning? (Slides)",
+      "authors": ["ADE Research Group"],
+      "publishedYear": 2024,
+      "genres": ["Technical", "Presentation"],
+      "isbn": "978-1-00000-000-2",
+      "pages": 28,
+      "language": "en",
+      "publisher": {
+        "name": "ADE Publications",
+        "location": "Seattle, USA"
+      },
+      "availability": {
+        "format": "pptx",
+        "stock": 999
+      },
+      "rating": {
+        "average": 4.5,
+        "count": 97
+      },
+      "pdfUrl": "/Deep%20Machine%20Learning/01%20What%20is%20Machine%20Learning.pptx"
+    },
+    {
+      "id": "dml-02-pdf",
+      "title": "What is Deep Learning? (PDF)",
+      "authors": ["Priya Raman"],
+      "publishedYear": 2024,
+      "genres": ["Technical", "Deep Learning"],
+      "isbn": "978-1-00000-000-3",
+      "pages": 42,
+      "language": "en",
+      "publisher": {
+        "name": "ADE Publications",
+        "location": "Seattle, USA"
+      },
+      "availability": {
+        "format": "pdf",
+        "stock": 999
+      },
+      "rating": {
+        "average": 4.7,
+        "count": 134
+      },
+      "pdfUrl": "/Deep%20Machine%20Learning/02%20What%20is%20Deep%20Learning.pdf"
+    },
+    {
+      "id": "dml-02-ppt",
+      "title": "What is Deep Learning? (Slides)",
+      "authors": ["Priya Raman"],
+      "publishedYear": 2024,
+      "genres": ["Technical", "Presentation"],
+      "isbn": "978-1-00000-000-4",
+      "pages": 30,
+      "language": "en",
+      "publisher": {
+        "name": "ADE Publications",
+        "location": "Seattle, USA"
+      },
+      "availability": {
+        "format": "pptx",
+        "stock": 999
+      },
+      "rating": {
+        "average": 4.6,
+        "count": 103
+      },
+      "pdfUrl": "/Deep%20Machine%20Learning/02%20What%20is%20Deep%20Learning.pptx"
+    },
+    {
+      "id": "dml-03-pdf",
+      "title": "What is a Neural Network? (PDF)",
+      "authors": ["Miguel Alvarez"],
+      "publishedYear": 2024,
+      "genres": ["Technical", "Neural Networks"],
+      "isbn": "978-1-00000-000-5",
+      "pages": 36,
+      "language": "en",
+      "publisher": {
+        "name": "ADE Publications",
+        "location": "Seattle, USA"
+      },
+      "availability": {
+        "format": "pdf",
+        "stock": 999
+      },
+      "rating": {
+        "average": 4.5,
+        "count": 88
+      },
+      "pdfUrl": "/Deep%20Machine%20Learning/03%20What%20is%20a%20Neural%20Network.pdf"
+    },
+    {
+      "id": "dml-03-ppt",
+      "title": "What is a Neural Network? (Slides)",
+      "authors": ["Miguel Alvarez"],
+      "publishedYear": 2024,
+      "genres": ["Technical", "Presentation"],
+      "isbn": "978-1-00000-000-6",
+      "pages": 32,
+      "language": "en",
+      "publisher": {
+        "name": "ADE Publications",
+        "location": "Seattle, USA"
+      },
+      "availability": {
+        "format": "pptx",
+        "stock": 999
+      },
+      "rating": {
+        "average": 4.4,
+        "count": 76
+      },
+      "pdfUrl": "/Deep%20Machine%20Learning/03%20What%20is%20a%20Neural%20Network.pptx"
+    },
+    {
+      "id": "dml-04-pdf",
+      "title": "What is Unsupervised Learning? (PDF)",
+      "authors": ["Sofia Lindholm"],
+      "publishedYear": 2024,
+      "genres": ["Technical", "Unsupervised Learning"],
+      "isbn": "978-1-00000-000-7",
+      "pages": 34,
+      "language": "en",
+      "publisher": {
+        "name": "ADE Publications",
+        "location": "Seattle, USA"
+      },
+      "availability": {
+        "format": "pdf",
+        "stock": 999
+      },
+      "rating": {
+        "average": 4.6,
+        "count": 91
+      },
+      "pdfUrl": "/Deep%20Machine%20Learning/04%20What%20is%20Unsupervised%20Learning.pdf"
+    },
+    {
+      "id": "dml-04-ppt",
+      "title": "What is Unsupervised Learning? (Slides)",
+      "authors": ["Sofia Lindholm"],
+      "publishedYear": 2024,
+      "genres": ["Technical", "Presentation"],
+      "isbn": "978-1-00000-000-8",
+      "pages": 29,
+      "language": "en",
+      "publisher": {
+        "name": "ADE Publications",
+        "location": "Seattle, USA"
+      },
+      "availability": {
+        "format": "pptx",
+        "stock": 999
+      },
+      "rating": {
+        "average": 4.5,
+        "count": 82
+      },
+      "pdfUrl": "/Deep%20Machine%20Learning/04%20What%20is%20Unsupervised%20Learning.pptx"
     }
   ]
 }
